@@ -18,10 +18,10 @@ Access the index page of hms in any browser using link 'localhost/hospitalprojec
 
 <h2>Some Project Screenshots</h2>
 
-![screenshot2](assets/IndexPage.png)
-![screenshots1](assets/registration.png)
-![screenshot2](assets/userDashboard.png)
-![screenshot2](assets/PatientPrescr.png)
-![screenshot2](assets/labpatientpanel.png)
-![screenshot2](assets/labadmin.png)
-![screenshot2](assets/adminpanel.png)
+![screenshot2](assets/screenshots/IndexPage.png)
+![screenshots1](assets/screenshots/registration.png)
+![screenshot2](assets/screenshots/userDashboard.png)
+![screenshot2](assets/screenshots/PatientPrescr.png)
+![screenshot2](assets/screenshots/labpatientpanel.png)
+![screenshot2](assets/screenshots/labadmin.png)
+![screenshot2](assets/screenshots/adminpanel.png)
